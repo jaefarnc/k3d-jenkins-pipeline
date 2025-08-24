@@ -133,5 +133,3 @@ customEnvVars:
 motd:
   enabled: true
   message: "Hello2 from a templated Helm Chart!"
-
-# Triggering a build
